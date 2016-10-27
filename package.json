@@ -10,7 +10,7 @@
     "catbox-redis": "1.x.x",
     "getconfig": "2.x.x",
     "good": "6.x.x",
-    "good-console": "5.x.x",
+    "good-console": "6.3.1",
     "hapi": "8.x.x",
     "hoek": "2.x.x",
     "jade": "1.x.x",
