@@ -11,7 +11,7 @@
     "getconfig": "2.x.x",
     "good": "6.x.x",
     "good-console": "5.x.x",
-    "hapi": "8.x.x",
+    "hapi": "11.0.4",
     "hoek": "2.x.x",
     "jade": "1.x.x",
     "semver": "5.x.x",
